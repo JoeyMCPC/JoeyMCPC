@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @JoeyMCPC
-- 👀 I’m interested in ... game dev, cyber sec
-- 🌱 I’m currently learning ... c++, rust, game dev, cyber sec
-- 💞️ I’m looking to collaborate on ... creating games
-- 📫 How to reach me ... discord, neronde23.
+hey im joeymcpc 
 
+i do rust and cyber sec, im learning how to be a backend dev
 
 <!---
 JoeyMCPC/JoeyMCPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
