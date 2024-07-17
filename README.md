@@ -1,6 +1,6 @@
 hey im joeymcpc 
 
-i do rust and cyber sec, im learning how to be a backend dev
+
 
 <!---
 JoeyMCPC/JoeyMCPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
